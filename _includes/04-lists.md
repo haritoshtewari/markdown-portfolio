@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Restaurant
+* Gym
+  * Fitness
+  * Healthy
+* Adventure
+  * Fun
+  * Relax
